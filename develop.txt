@@ -1,1 +1,2 @@
-Tests
+git checkout -b develop master
+git checkout -b feature/shop
